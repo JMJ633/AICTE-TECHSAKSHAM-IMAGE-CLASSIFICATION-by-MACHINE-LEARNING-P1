@@ -1,5 +1,8 @@
-Project Title
-Image Classification Using CNN and Pre-trained MobileNet Model with Streamlit Integration
+
+#Project Title
+#AICTE-TECHSAKSHAM-IMAGE-CLASSIFICATION-by-MACHINE-LEARNING-P1
+Public
+
 
 Overview
 This project focuses on building an efficient and user-friendly image classification pipeline using Convolutional Neural Networks (CNN) and the pre-trained MobileNet model. The system is designed to enable real-time predictions through an interactive web application built with Streamlit. Users can upload images directly through the app, which then classifies the images using a fine-tuned version of the MobileNet model.
